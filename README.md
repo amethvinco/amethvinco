@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, Javascript, React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate in a Great Projects
-- 📫 How to reach me -> ameth.cruz@vincoorbis.com
+- 📫 How to reach me -> ameth.cruz@vincoorbis.com -> ameth.xyz
 
 <!---
 amethvinco/amethvinco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
